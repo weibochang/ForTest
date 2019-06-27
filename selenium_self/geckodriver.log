@@ -1,0 +1,214 @@
+1560867568928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A8b4dR85qNe0"
+1560867569219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560867569219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560867569219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560867570671	Marionette	INFO	Listening on port 36847
+1560867570734	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560867627993	Marionette	INFO	Stopped listening on port 36847
+1560868020174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ezck7R7I45Yn"
+1560868020518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868020518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868020518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868021985	Marionette	INFO	Listening on port 41945
+1560868022088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560868047255	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1560868069034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dVFYnQ0i3Ytb"
+1560868069326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868069326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868069326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868070972	Marionette	INFO	Listening on port 39761
+1560868071040	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560868101581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1560868116970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AnkCaOeKcxZu"
+1560868117269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868117269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868117269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868118804	Marionette	INFO	Listening on port 45321
+1560868118881	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560868141970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+[Parent 20195, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20195, Gecko_IOThread] WARNING: pipe error (82): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868153546	Marionette	INFO	Stopped listening on port 45321
+1560868156291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yxOwNF8vwqbJ"
+1560868156595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868156595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868156595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868158148	Marionette	INFO	Listening on port 37329
+1560868158207	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20632, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20632, Gecko_IOThread] WARNING: pipe error (74): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868172480	Marionette	INFO	Stopped listening on port 37329
+1560868176441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v1wAuc85VrPd"
+1560868176734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868176734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868176734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868178236	Marionette	INFO	Listening on port 45345
+1560868178247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560868198539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 21044, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21044, Gecko_IOThread] WARNING: pipe error (98): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868217060	Marionette	INFO	Stopped listening on port 45345
+1560868219172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t4ch0BbAXf3i"
+1560868219447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868219447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868219447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868221009	Marionette	INFO	Listening on port 34103
+1560868221082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560868237343	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560868252315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1jlP1wLClut9"
+1560868252598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560868252598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560868252598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560868254029	Marionette	INFO	Listening on port 36445
+1560868254124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560868276195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:542:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+success@http://www.chaorendama.com/login.aspx?v=2:66:25
+o@http://www.chaorendama.com/js/jquery.js:2:14733
+fireWith@http://www.chaorendama.com/js/jquery.js:2:15502
+w@http://www.chaorendama.com/js/jquery.js:4:12472
+d@http://www.chaorendama.com/js/jquery.js:4:18318
+send@http://www.chaorendama.com/js/jquery.js:4:18357
+ajax@http://www.chaorendama.com/js/jquery.js:4:15044
+GetCode@http://www.chaorendama.com/login.aspx?v=2:55:15
+onclick@http://www.chaorendama.com/login.aspx?v=2:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+[Parent 19328, Gecko_IOThread] WARNING: pipe error (100): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19328, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868487659	Marionette	INFO	Stopped listening on port 41945
+[Parent 21870, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21870, Gecko_IOThread] WARNING: pipe error (100): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868492233	Marionette	INFO	Stopped listening on port 36445
+[Parent 21465, Gecko_IOThread] WARNING: pipe error (99): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21465, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868494718	Marionette	INFO	Stopped listening on port 34103
+[Parent 19754, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19754, Gecko_IOThread] WARNING: pipe error (74): 连接被对方重设: file /build/firefox-z_SAYv/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560868497166	Marionette	INFO	Stopped listening on port 39761
